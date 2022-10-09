@@ -1,0 +1,2 @@
+# slack-ultimateegosa
+Slackで自分の名前が書かれた時に反応する超スーパーエゴサボットです。
