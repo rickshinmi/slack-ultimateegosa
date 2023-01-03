@@ -1,2 +1,3 @@
 # slack-ultimateegosa
 Slackで自分の名前が書かれた時に反応する超スーパーエゴサボットです。
+.jsで終わるファイルの中身をGASのエディタでコピペして、全世界の人が見れるみたいなモードでデプロイして、events subscriptionのusereventsでmessage.channelsにデプロイされたリンクを貼れば動くと思います。あとは、webhookの設定で送信だけできるリンクを用意してコードの指定されている欄にペーストしませう
